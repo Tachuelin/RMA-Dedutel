@@ -1,0 +1,4 @@
+<launch>
+     <node name="nodo_publisher"    pkg="package_robot"  type="nodo_publisher.py"    output="screen" />
+     <node name="nodo_subscriber"  pkg="package_robot"  type="nodo_subscriber.py"  output="screen" />
+</launch>

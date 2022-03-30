@@ -1,0 +1,8 @@
+# Definimos el objetivo(goal)
+int32 number_of_cars  # Especificamos numero de automóviles
+---
+# Definimos el resultado(result)
+int32 total_cars_cleaned # Total de automóviles limpios
+---
+# Definimos la retroalimentación(feedback)
+float32 percent_cars_complete # Porcentaje completado
